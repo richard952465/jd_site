@@ -21,7 +21,7 @@ img{
 /*a标记默认样式*/
 a{
     text-decoration: none;
-    color: #005aa0;
+    color: #000;
 }
 /*a标记默认鼠标悬停样式*/
 a:hover{

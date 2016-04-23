@@ -1,2 +1,24 @@
 /*首页样式*/
+/*顶部背景*/
+#top{
+    background-color: #F7F7F7;
+    height: 30px;
+}
 /*顶部收藏京东样式*/
+#top_box{
+    /*宽 高 居中对齐*/
+    width: 1211px;
+    margin: 0 auto;
+    line-height: 30px;
+}
+/*五角星最左浮动*/
+#top_box>img{
+    float:left;
+    margin-top:9px;
+    margin-right: 3px;
+}
+/*列表li左浮动*/
+#top_box>ul>li{
+    float:left;
+    margin:0 15px;
+}
