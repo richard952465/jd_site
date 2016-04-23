@@ -1,0 +1,30 @@
+/*公共样式*/
+/*清除默认样式*/
+body,p,div,h1,h2,h3,h4,h5,h6,ul,ol,dl,li,dt,dd{
+    margin:0px;
+    padding:0px;
+    list-style:none;
+    font-size: 12px;
+}
+/*左浮动*/
+.lf{
+    float:left;
+}
+/*右浮动*/
+.rt{
+    float:right;
+}
+/*图片垂直对齐方式*/
+img{
+    vertical-align:bottom;
+}
+/*a标记默认样式*/
+a{
+    text-decoration: none;
+    color: #005aa0;
+}
+/*a标记默认鼠标悬停样式*/
+a:hover{
+    text-decoration: underline;
+    color: #e4393c;;
+}
